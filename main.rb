@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 # Import my_enumerable.rb
 
