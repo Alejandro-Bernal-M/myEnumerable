@@ -1,4 +1,3 @@
-
 # Create MyEnumerable module
 module MyEnumerable
   def all?
